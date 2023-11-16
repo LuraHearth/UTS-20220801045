@@ -2,4 +2,4 @@ SELECT	* FROM	mahasiswa;
 
 SELECT	* FROM	dosen;
 
-SELECT * FROM	mata_kuliah;
+SELEcT * FROM	mata_kuliah;
